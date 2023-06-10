@@ -8,7 +8,6 @@ int main()
     if(a==1)
         cout<<a<<" ";
     else{
-        cout<<a<<" ";
         flag:
 
             if(a%2==0){
